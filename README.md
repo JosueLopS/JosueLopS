@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JosueLopS
+- 👀 I’m interested in improve my skills on web developing.
+- 🌱 I’m currently learning front-end web technologies. 
+- 💞️ I’m looking to collaborate on projects on the web using HTML, JS, and CSS.
+- 📫 You can reach me at josuelopsls@gmail.com
